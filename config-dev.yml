@@ -12,4 +12,4 @@ feign:
     enabled: true
 
 config:
-  info: dev-2
+  info: dev-3
