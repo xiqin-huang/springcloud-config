@@ -10,3 +10,6 @@ eureka:
 feign:
   hystrix:
     enabled: true
+
+config:
+  info: dev
